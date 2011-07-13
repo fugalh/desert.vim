@@ -59,9 +59,9 @@ hi MatchParen guibg=grey30 guifg=#dfffdf
 hi Comment	guifg=SkyBlue
 hi Constant	guifg=#ffa0a0
 hi Identifier	guifg=palegreen
-hi Statement	guifg=khaki
+hi Statement	guifg=#ffd797
 hi PreProc	guifg=indianred
-hi Type		guifg=darkkhaki
+hi Type		guifg=#e9b96e
 hi Special	guifg=navajowhite
 "hi Underlined
 hi Ignore	guifg=grey40
