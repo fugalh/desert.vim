@@ -58,6 +58,7 @@ hi MatchParen guibg=grey30 guifg=#dfffdf
 " syntax highlighting groups
 hi Comment	guifg=SkyBlue
 hi Constant	guifg=#ffa0a0
+hi String	guifg=#e0a5da
 hi Identifier	guifg=palegreen
 hi Statement	guifg=#ffd797
 hi PreProc	guifg=indianred
