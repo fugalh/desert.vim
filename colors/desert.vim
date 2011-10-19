@@ -34,17 +34,17 @@ hi Cursor       guibg=indianred guifg=khaki
 "hi ErrorMsg
 hi VertSplit    guibg=#c2bfa5 guifg=grey50 gui=none
 hi Folded       guibg=grey30 guifg=orange
-hi FoldColumn   guibg=grey30 guifg=tan
+hi FoldColumn   guibg=grey14 guifg=tan
 hi IncSearch    guifg=slategrey guibg=khaki
-"hi LineNr
+hi LineNr       guibg=grey17 guifg=grey70
 hi ModeMsg      guifg=goldenrod
 hi MoreMsg      guifg=SeaGreen
 hi NonText      guifg=LightBlue guibg=grey30
 hi Question     guifg=springgreen
 hi Search       guibg=grey30 guifg=#dfffdf
 hi SpecialKey   guifg=yellowgreen
-hi StatusLine   guibg=#c2bfa5 guifg=black gui=none
-hi StatusLineNC guibg=#c2bfa5 guifg=grey50 gui=none
+hi StatusLine   guibg=grey17 guifg=grey90 gui=none
+hi StatusLineNC guibg=grey17 guifg=grey40 gui=none
 hi Title        guifg=indianred
 hi Visual       gui=none guifg=khaki guibg=olivedrab
 "hi VisualNOS
